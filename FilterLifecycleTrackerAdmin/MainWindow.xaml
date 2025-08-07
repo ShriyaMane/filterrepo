@@ -1,0 +1,1 @@
+<Window x:Class="FilterLifecycleTrackerAdmin.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="MainWindow" Height="350" Width="525"><Grid><TextBlock Text="Welcome to Filter Lifecycle Tracker Admin Portal" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/></Grid></Window>
